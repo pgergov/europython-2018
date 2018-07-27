@@ -2,6 +2,6 @@
 
 ## How async and await ended up in Python
 
-This repository contains all code snippets from my presentation
+This repository contains all code snippets from the presentation
 
-Note: Link to presentation coming soon
+Here's a link to it [link](https://speakerdeck.com/pgergov/how-async-and-await-ended-up-in-python)
