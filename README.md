@@ -1,4 +1,4 @@
-# EuroPython 2018, Edinburg
+# EuroPython 2018, Edinburgh
 
 ## How async and await ended up in Python
 
